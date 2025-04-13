@@ -2,9 +2,9 @@
 
 Foi solicitado o refinamento de um modelo conceitual de Banco de Dados considerando os seguintes pontos:
 
-1.Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-2.Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-3.Entrega – Possui status e código de rastreio;
+- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+- Entrega – Possui status e código de rastreio;
 
 Para atender essa solicitação, foram criadas as entidades:
 
