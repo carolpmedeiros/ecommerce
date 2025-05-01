@@ -20,7 +20,7 @@ Além disso,no arquivo "queries_and_data_insertion" foi realizada a persitência
 4) Relação de nomes dos fornecedores e nomes dos produtos?
 5) Quais são todos os clientes cadastrados na Base de dados ECOMMERCE?
 6) Quais são todos os produtos da categoria Eletrônico?
-7)Quais clientes fizeram mais de 3 pedidos?
+7) Quais clientes fizeram mais de 3 pedidos?
 8) Quais produtos foram comprados por cada cliente e em qual pedido?
 9) Há quanto tempo, em média, os clientes estão cadastrados?
 
