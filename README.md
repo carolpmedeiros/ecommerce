@@ -1,6 +1,6 @@
 # ecommerce
 
-Foi solicitado o refinamento de um modelo conceitual de Banco de Dados considerando os seguintes pontos,a partir do levantamento de requisitos realizado no início do desafio:
+Foi realizada a modelagem de um Banco de Dados para atender a um E-commerce, passando pelo modelo conceitual, lógico (relacional) e físico, considerando os seguintes pontos, a partir do levantamento de requisitos realizado no início do desafio:
 
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
@@ -14,6 +14,7 @@ Para atender essa solicitação, foram criadas as entidades:
 
 No arquivo "esquema_relacional_sql" estão organizadas as criações de entidades que compõem o contexto da narrativa tratada neste desafio.
 Além disso,no arquivo "queries_and_data_insertion" foi realizada a persitência dos dados nas respectivas entidades já criadas, bem como a criação de queries para responder perguntas de negócio,como as listadas abaixo:
+
 1) Quantos pedidos foram feitos por cada cliente?
 2) Algum vendedor também é fornecedor?
 3) Qual a relação de produtos,fornecedores e  estoque?
